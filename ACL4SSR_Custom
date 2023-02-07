@@ -4,6 +4,9 @@
 
 
 ;设置规则标志位
+ruleset=🎮 游戏加速,https://raw.githubusercontent.com/wanganjin233/clashrules/main/ruleset/MOBA.list
+ruleset=🇨🇳 台湾节点,https://raw.githubusercontent.com/wanganjin233/clashrules/main/ruleset/TW.list
+ruleset=🇨🇳 台湾节点,https://raw.githubusercontent.com/wanganjin233/clashrules/main/ruleset/HK.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
