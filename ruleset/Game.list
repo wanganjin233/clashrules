@@ -12,6 +12,7 @@ DST-PORT,30190
 DST-PORT,30102
 DST-PORT,30104
 #League-of-Legends-tw+Garena(2018-12-19),英雄联盟-台服+Garena平台(2018-12-19更新),0,0,1,0,1,0,By-AmazingDM
+IP-CIDR,103.240.224.0/24,no-resolve
 IP-CIDR,37.58.74.0/24,no-resolve
 IP-CIDR,49.50.234.0/24,no-resolve
 IP-CIDR,52.229.171.0/24,no-resolve
