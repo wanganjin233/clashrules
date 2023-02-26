@@ -4,7 +4,6 @@
 
 
 ;设置规则标志位
-ruleset=🎯 IP检测,https://raw.githubusercontent.com/wanganjin233/clashrules/main/ruleset/IP%E6%A3%80%E6%9F%A5
 ruleset=🎮 游戏加速,https://raw.githubusercontent.com/wanganjin233/clashrules/main/ruleset/Game.list
 ruleset=🇨🇳 台湾节点,https://raw.githubusercontent.com/wanganjin233/clashrules/main/ruleset/TW.list
 ruleset=🇭🇰 香港节点,https://raw.githubusercontent.com/wanganjin233/clashrules/main/ruleset/HK.list
@@ -52,7 +51,6 @@ custom_proxy_group=♻️ 低倍节点`url-test`^(?!.*GAME|游戏).*(0.[1-9])`ht
 custom_proxy_group=♻️ 高倍节点`url-test`^(?!.*GAME|游戏).*(\[[1-9])`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=♻️ 普通节点`url-test`^((?!\[[1-9]).)*$`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=♻️ 翻墙节点`url-test`^(?!.*GAME|游戏).*(,)`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group=🎯 IP检测`select`[]DIRECT`[]🚀 节点选择`[]🇺🇲 美国节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇰🇷 韩国节点`[]🚀 手动切换
 custom_proxy_group=📢 谷歌FCM`select`[]DIRECT`[]🚀 节点选择`[]🇺🇲 美国节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇰🇷 韩国节点`[]🚀 手动切换
 custom_proxy_group=Ⓜ️ 微软云盘`select`[]DIRECT`[]🚀 节点选择`[]🇺🇲 美国节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇰🇷 韩国节点`[]🚀 手动切换
 custom_proxy_group=Ⓜ️ 微软服务`select`[]DIRECT`[]🚀 节点选择`[]🇺🇲 美国节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇰🇷 韩国节点`[]🚀 手动切换
