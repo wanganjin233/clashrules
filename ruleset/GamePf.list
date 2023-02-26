@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,tdatamaster.com
 DOMAIN-SUFFIX,intlgame.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,garena.com
+IP-CIDR,111.223.42.0/24,no-resolve
