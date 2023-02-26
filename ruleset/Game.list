@@ -11,8 +11,12 @@ IP-CIDR,156.59.99.0/24,no-resolve
 DST-PORT,30190
 DST-PORT,30102
 DST-PORT,30104
+
 # rov
 IP-CIDR,111.223.42.0/24,no-resolve
+IP-CIDR,124.156.240.0/24,no-resolve
+IP-CIDR,43.154.252.0/24,no-resolve
+
 #League-of-Legends-tw+Garena(2018-12-19),英雄联盟-台服+Garena平台(2018-12-19更新),0,0,1,0,1,0,By-AmazingDM
 IP-CIDR,103.240.224.0/24,no-resolve
 IP-CIDR,103.240.225.0/24,no-resolve
