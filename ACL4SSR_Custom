@@ -4,6 +4,7 @@
 
 
 ;设置规则标志位
+ruleset=🐮 ChatGPT,https://raw.githubusercontent.com/wanganjin233/clashrules/main/ruleset/ChatGpt.list
 ruleset=🎮 游戏加速,https://raw.githubusercontent.com/wanganjin233/clashrules/main/ruleset/Game.list
 ruleset=🇨🇳 台湾节点,https://raw.githubusercontent.com/wanganjin233/clashrules/main/ruleset/TW.list
 ruleset=🇭🇰 香港节点,https://raw.githubusercontent.com/wanganjin233/clashrules/main/ruleset/HK.list
@@ -61,18 +62,19 @@ custom_proxy_group=📹 油管视频`select`[]🚀 节点选择`[]♻️ 自动�
 custom_proxy_group=🎥 奈飞视频`select`[]🎥 奈飞节点`[]🚀 节点选择`[]♻️ 自动选择`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🚀 手动切换`[]DIRECT
 custom_proxy_group=📺 巴哈姆特`select`[]🇨🇳 台湾节点`[]🚀 节点选择`[]🚀 手动切换`[]DIRECT
 custom_proxy_group=📺 哔哩哔哩`select`[]🎯 全球直连`[]🇨🇳 台湾节点`[]🇭🇰 香港节点
+custom_proxy_group=🐮 ChatGPT`select`.*
 custom_proxy_group=🌍 国外媒体`select`[]🚀 节点选择`[]♻️ 自动选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🚀 手动切换`[]DIRECT
 custom_proxy_group=🌏 国内媒体`select`[]DIRECT`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🚀 手动切换
 custom_proxy_group=🎮 游戏平台`select`[]DIRECT`[]🚀 节点选择`[]🇺🇲 美国节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇰🇷 韩国节点`[]🚀 手动切换
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 节点选择`[]♻️ 自动选择
-custom_proxy_group=🐟 漏网之鱼`select`[]🚀 节点选择`[]♻️ 自动选择`[]DIRECT`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]🚀 手动切换
+custom_proxy_group=🐟 漏网之鱼`select`[]🚀 节点选择`[]♻️ 自动选择`[]DIRECT`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 韩国节点`[]ot 其他节点`[]🚀 手动切换
 custom_proxy_group=🇭🇰 香港节点`url-test`^(?!.*GAME|游戏).*(港|HK|Hong Kong|🇭🇰)`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🇯🇵 日本节点`url-test`^(?!.*GAME|游戏).*(Tokyo|日本|川日|东京|大阪|泉日|埼玉|沪日|深日|[^-]日|JP|Japan)`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🇺🇲 美国节点`url-test`^(?!.*GAME|游戏).*(California|美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States)`http://www.gstatic.com/generate_204`300,,150
 custom_proxy_group=🇨🇳 台湾节点`url-test`^(?!.*GAME|游戏).*(台|新北|彰化|TW|Taiwan)`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🇸🇬 狮城节点`url-test`^(?!.*GAME|游戏).*(新加坡|坡|狮城|SG|Singapore)`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🇰🇷 韩国节点`url-test`^(?!.*GAME|游戏).*(KR|Korea|KOR|Incheon|首尔|韩|韓)`http://www.gstatic.com/generate_204`300,,50
-custom_proxy_group=ot 其他节点`url-test`^((?!GAME|游戏|港|HK|Hong Kong|🇭🇰|Tokyo|日本|川日|东京|大阪|泉日|埼玉|沪日|深日|[^-]日|JP|Japan|California|美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States|台|新北|彰化|TW|Taiwan|新加坡|坡|狮城|SG|Singapore|KR|Korea|KOR|Incheon|首尔|韩|韓).)*$`http://www.gstatic.com/generate_204`300,,50
+custom_proxy_group=ot 其他节点`select`^((?!GAME|游戏|港|HK|Hong Kong|🇭🇰|Tokyo|日本|川日|东京|大阪|泉日|埼玉|沪日|深日|[^-]日|JP|Japan|California|美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States|台|新北|彰化|TW|Taiwan|新加坡|坡|狮城|SG|Singapore|KR|Korea|KOR|Incheon|首尔|韩|韓).)*$`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=🎥 奈飞节点`select`(NF|奈飞|解锁|Netflix|NETFLIX|Media)
 ;设置分组标志位
 
