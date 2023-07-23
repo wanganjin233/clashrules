@@ -7,7 +7,7 @@
 ruleset=🐮 ChatGPT,https://raw.githubusercontent.com/wanganjin233/clashrules/main/ruleset/ChatGpt.list
 ruleset=🐮 Github,https://raw.githubusercontent.com/wanganjin233/clashrules/main/ruleset/Github.list
 ruleset=🎮 游戏加速,https://raw.githubusercontent.com/wanganjin233/clashrules/main/ruleset/Game.list
-ruleset=🚀 手动切换,https://raw.githubusercontent.com/wanganjin233/clashrules/main/ruleset/TW.list
+ruleset=🇨🇳 台湾节点,https://raw.githubusercontent.com/wanganjin233/clashrules/main/ruleset/TW.list
 ruleset=🇭🇰 香港节点,https://raw.githubusercontent.com/wanganjin233/clashrules/main/ruleset/HK.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
