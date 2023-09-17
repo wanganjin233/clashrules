@@ -10,7 +10,6 @@ ruleset=🐮 Github,https://raw.githubusercontent.com/wanganjin233/clashrules/ma
 ruleset=🎮 游戏加速,https://raw.githubusercontent.com/wanganjin233/clashrules/main/ruleset/Game.list
 ruleset=🇨🇳 台湾节点,https://raw.githubusercontent.com/wanganjin233/clashrules/main/ruleset/TW.list
 ruleset=🇭🇰 香港节点,https://raw.githubusercontent.com/wanganjin233/clashrules/main/ruleset/HK.list
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Facebook/Facebook.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
