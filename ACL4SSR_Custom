@@ -62,7 +62,6 @@ ruleset=🛑 广告拦截,https://raw.githubusercontent.com/an0na/R/master/Filte
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Advertising/AdReject.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Advertising/Hijacking.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Hijacking.list
-ruleset=🛑 广告拦截,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Privacy.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/hupu/hupu.sgmodule
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt
