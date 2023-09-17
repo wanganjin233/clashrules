@@ -56,7 +56,6 @@ ruleset=🛑 广告拦截,https://raw.githubusercontent.com/scomper/surge-list/m
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyList.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyListChina.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
-ruleset=🛑 广告拦截,https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adblock4limbo.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/Custom/video-ad.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/an0na/R/master/Filter/AdBlock.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Advertising/AdReject.list
