@@ -12,3 +12,4 @@ DOMAIN-SUFFIX,fonts.net
 DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,lol.pvp.net
 DOMAIN,graph.facebook.com
+IP-CIDR,169.46.193.0/24,no-resolve
